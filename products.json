@@ -1,0 +1,48 @@
+[
+  {
+    "sku": "uksol-compact-515w",
+    "name": "UKSOL Compact 515W",
+    "supplier": "UKSOL / iHelios",
+    "status": "candidate",
+    "panel_input_w": 515,
+    "inverter_max_va": 799,
+    "public_price_gbp_inc_vat": 583.39,
+    "public_evidence": ["product page", "public specification", "IP67 inverter", "10-year warranty claim"],
+    "missing_before_sale": ["complete-kit IPS evidence", "BS 1363 plug and BS 1362 fuse evidence", "mounting evidence", "reseller terms"]
+  },
+  {
+    "sku": "uksol-pro-duo-890w",
+    "name": "UKSOL Pro Duo 890W",
+    "supplier": "UKSOL / iHelios",
+    "status": "candidate",
+    "panel_input_w": 890,
+    "inverter_max_va": 799,
+    "inverter_max_current_a": 3.5,
+    "public_evidence": ["public datasheet", "BS EN 50549-1 listed", "BS EN 62109-1/-2 listed", "IP67 inverter", "10-year warranty claim"],
+    "missing_before_sale": ["complete-kit IPS evidence", "BS 1363 plug and BS 1362 fuse evidence", "mounting evidence", "reseller terms"]
+  },
+  {
+    "sku": "uksol-pro-max-1260w",
+    "name": "UKSOL Pro Max 1260W",
+    "supplier": "UKSOL / iHelios",
+    "status": "candidate",
+    "panel_input_w": 1260,
+    "inverter_max_va": 799,
+    "requires_over_960w_professional_assessment_advice": true,
+    "inverter_max_current_a": 3.5,
+    "public_price_gbp_inc_vat": 963.04,
+    "public_evidence": ["public datasheet", "BS EN 50549-1 listed", "BS EN 62109-1/-2 listed", "IP67 inverter", "10-year warranty claim"],
+    "missing_before_sale": ["complete-kit IPS evidence", "BS 1363 plug and BS 1362 fuse evidence", "mounting evidence", "reseller terms"]
+  },
+  {
+    "sku": "tsun-esk400-universal",
+    "name": "TSUN ESK400 Universal",
+    "supplier": "UK Solar Kits",
+    "status": "candidate",
+    "panel_input_w": 400,
+    "inverter_max_va": 400,
+    "public_price_gbp_inc_vat": 499.95,
+    "public_evidence": ["product page", "UK plug cable claim", "TSUN Smart app claim"],
+    "missing_before_sale": ["complete-kit IPS evidence", "exact BS 1363 plug and fuse details", "contact protection evidence", "mounting calculations", "reseller terms"]
+  }
+]
