@@ -20,7 +20,7 @@ Keep the address until the person unsubscribes or the launch list is no longer n
 
 ## Your choices
 
-You can unsubscribe from launch updates at any time by using the unsubscribe link in an email or contacting **[insert business email]**.
+You can unsubscribe from launch updates at any time by using the unsubscribe link in an email or contacting **support@brightsocket.com** *(placeholder — not active)*.
 
 ## Who operates the list
 
@@ -28,4 +28,4 @@ The data controller is **[insert legal business name and address]**. The mailing
 
 ## Contact
 
-For privacy questions or data requests, contact **[insert privacy contact]**.
+For privacy questions or data requests, contact **support@brightsocket.com** *(placeholder — not active)*.

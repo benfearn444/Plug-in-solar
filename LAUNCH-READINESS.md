@@ -25,7 +25,8 @@
 
 - [x] Build responsive catalogue homepage.
 - [x] Add candidate product cards and one evidence-trail page.
-- [x] Add suitability checker with GB/NI and battery-scope warnings.
+- [x] Add suitability checker with GB-only and battery-scope warnings.
+- [x] Set initial launch model to Great Britain only, supplier-direct fulfilment and no installation service.
 - [x] Add safety FAQ and claims policy.
 - [x] Add privacy-notice draft and consent checkbox.
 - [x] Keep payments disabled while products are unverified.
