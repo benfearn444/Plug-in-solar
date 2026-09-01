@@ -1,11 +1,12 @@
 # Commercial planning notes
 
-These are market observations, not confirmed buy prices. They should not be used as final selling prices until a supplier provides written reseller terms.
+These are market observations, not confirmed buy prices. The preview prices use the current observed consumer retail reference plus a 25% markup, as requested. They should not be treated as final selling prices until a supplier provides written reseller terms.
 
 | Candidate | Public price observed | Commercial implication |
 |---|---:|---|
-| UKSOL Compact 515W via iHelios | £583.39 incl. VAT | A starter product with a visible market price; wholesale discount, shipping and returns need confirming. |
-| UKSOL Pro Max 1260W via iHelios | £963.04 incl. VAT | Higher-ticket product; damage-in-transit, storage and delivery economics matter. |
+| UKSOL Compact 515W hybrid mount reference | £599.00 incl. VAT | Preview price: £748.75 incl. VAT. Wholesale discount, shipping and returns need confirming. |
+| UKSOL Pro Duo 890W hybrid mount reference | £849.00 incl. VAT | Preview price: £1,061.25 incl. VAT. Wholesale discount, shipping and returns need confirming. |
+| UKSOL Pro Max 1260W hybrid mount reference | £989.00 incl. VAT | Preview price: £1,236.25 incl. VAT. Higher-ticket product; damage-in-transit, storage and delivery economics matter. |
 | TSUN ESK400 via UK Solar Kits | £499.95 | Lower-cost comparison point; verify whether the advertised configuration is within the current GB framework. |
 
 ## Recommended launch commercial model

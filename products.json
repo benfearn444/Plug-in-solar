@@ -6,7 +6,9 @@
     "status": "candidate",
     "panel_input_w": 515,
     "inverter_max_va": 799,
-    "public_price_gbp_inc_vat": 583.39,
+    "public_price_gbp_inc_vat": 599.00,
+    "preview_price_gbp_inc_vat": 748.75,
+    "pricing_basis": "Current observed consumer retail reference £599.00 plus 25% markup; provisional.",
     "public_evidence": ["product page", "public specification", "IP67 inverter", "10-year warranty claim"],
     "missing_before_sale": ["complete-kit IPS evidence", "BS 1363 plug and BS 1362 fuse evidence", "mounting evidence", "reseller terms"]
   },
@@ -18,6 +20,9 @@
     "panel_input_w": 890,
     "inverter_max_va": 799,
     "inverter_max_current_a": 3.5,
+    "public_price_gbp_inc_vat": 849.00,
+    "preview_price_gbp_inc_vat": 1061.25,
+    "pricing_basis": "Current observed consumer retail reference £849.00 plus 25% markup; provisional.",
     "public_evidence": ["public datasheet", "BS EN 50549-1 listed", "BS EN 62109-1/-2 listed", "IP67 inverter", "10-year warranty claim"],
     "missing_before_sale": ["complete-kit IPS evidence", "BS 1363 plug and BS 1362 fuse evidence", "mounting evidence", "reseller terms"]
   },
@@ -30,7 +35,9 @@
     "inverter_max_va": 799,
     "requires_over_960w_professional_assessment_advice": true,
     "inverter_max_current_a": 3.5,
-    "public_price_gbp_inc_vat": 963.04,
+    "public_price_gbp_inc_vat": 989.00,
+    "preview_price_gbp_inc_vat": 1236.25,
+    "pricing_basis": "Current observed consumer retail reference £989.00 plus 25% markup; provisional.",
     "public_evidence": ["public datasheet", "BS EN 50549-1 listed", "BS EN 62109-1/-2 listed", "IP67 inverter", "10-year warranty claim"],
     "missing_before_sale": ["complete-kit IPS evidence", "BS 1363 plug and BS 1362 fuse evidence", "mounting evidence", "reseller terms"]
   },
