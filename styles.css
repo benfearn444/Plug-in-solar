@@ -7,3 +7,15 @@
 .image-compact{background-image:url('assets/uksol-hybrid-range.png')}
 .image-duo{background-image:url('assets/uksol-sheffield-890w.png')}
 .image-mount{background-image:url('assets/uksol-hybrid-range.png')}
+
+/* First feedback pass: balanced CTAs, placeholder account controls and aligned cards. */
+.button-secondary{background:transparent;color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.button-secondary:hover{background:var(--mint)}
+.header-actions{display:flex;gap:8px;margin-left:auto}
+.icon-button{display:grid;place-items:center;width:42px;height:42px;border:1px solid var(--line);border-radius:50%;background:var(--paper);color:var(--ink);text-decoration:none;font-size:1rem}
+.icon-button:hover{background:var(--mint)}
+.hero-actions{gap:12px}
+.price{font-size:.78rem;white-space:nowrap}
+.product-body h3{min-height:3.35rem}
+.product-body p{min-height:5.4rem}
+.review-status{min-height:2.25rem}
