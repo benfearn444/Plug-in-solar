@@ -1,17 +1,18 @@
 # Commercial planning notes
 
-These are market observations, not confirmed buy prices. The preview prices use the current observed consumer retail reference plus a 25% markup, as requested. They should not be treated as final selling prices until a supplier provides written reseller terms.
+These are planning prices based on UKSOL's reseller price list dated 1 September 2026. The guide price uses a 25% markup on the ex-VAT buy price, followed by VAT. They should not be treated as final selling prices until delivery, returns and written reseller terms are confirmed.
 
-| Candidate | Public price observed | Commercial implication |
-|---|---:|---|
-| UKSOL Compact 515W hybrid mount reference | £599.00 incl. VAT | Preview price: £748.75 incl. VAT. Wholesale discount, shipping and returns need confirming. |
-| UKSOL Pro Duo 890W hybrid mount reference | £849.00 incl. VAT | Preview price: £1,061.25 incl. VAT. Wholesale discount, shipping and returns need confirming. |
-| UKSOL Pro Max 1260W hybrid mount reference | £989.00 incl. VAT | Preview price: £1,236.25 incl. VAT. Higher-ticket product; damage-in-transit, storage and delivery economics matter. |
-| TSUN ESK400 via UK Solar Kits | £499.95 | Lower-cost comparison point; verify whether the advertised configuration is within the current GB framework. |
+| Candidate | UKSOL buy price ex VAT | Guide price inc VAT | Commercial implication |
+|---|---:|---:|---|
+| UKSOL Pro Compact Hybrid 515W | £379.00 | £568.50 | Availability stated as early November. Delivery, ballast, shipping and returns need confirming. |
+| UKSOL Pro Duo 890W Sheffield-made mount | £730.00 | £1,095.00 | Supplier lead time stated as 14–20 days. Delivery, ballast and returns need confirming. |
+| UKSOL Pro Duo Hybrid 890W | £499.00 | £748.50 | Availability stated as early November. May be a stronger supplier-direct entry price. |
+| UKSOL Pro Plus Hybrid 1030W | £520.00 | £780.00 | Availability stated as early November. Confirm professional-assessment advice and delivery economics. |
+| UKSOL Pro Max Hybrid 1260W | £589.00 | £883.50 | Availability stated as early November. Heavy, large-format delivery needs careful confirmation. |
 
 ## Recommended launch commercial model
 
-Begin with supplier-direct fulfilment or pre-order rather than buying heavy panels into stock. The website should collect launch-list demand while evidence and wholesale terms are being agreed. Only enable payment after the exact SKU, complete-kit documentation, delivery terms, warranty route and product-liability position are confirmed.
+Begin with supplier-direct fulfilment or pre-order rather than buying heavy panels into stock. The website should collect launch-list demand while evidence and wholesale terms are being agreed. Only enable payment after the exact SKU, complete-kit documentation, delivery terms, warranty route, product-liability position and written reseller approval are confirmed.
 
 ## Margin questions for suppliers
 

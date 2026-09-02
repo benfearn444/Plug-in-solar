@@ -4,9 +4,9 @@ This is a working due-diligence record. “Supplier-listed” is not the same as
 
 | Candidate | Supplier evidence received | Complete-kit IPS check | Plug/fuse check | Mounting check | Status |
 |---|---:|---:|---:|---:|---|
-| UKSOL 515W Compact | Partial — public product page and datasheet | No | No — plug/fuse not stated publicly | Partial — outdoor socket guidance; mounting evidence needed | Promising candidate — do not list as approved |
-| UKSOL 890W Duo | Partial — public datasheet | No | No — plug/fuse not stated publicly | Partial — stability guidance; mounting evidence needed | Promising candidate — do not list as approved |
-| UKSOL 1260W Pro Max | Partial — public datasheet | No | No — plug/fuse not stated publicly | Partial — stability guidance; mounting evidence needed | Promising candidate — do not list as approved |
+| UKSOL Pro Compact Hybrid 515W | Partial — reseller media kit, price list and datasheet | No | No — plug/fuse details still needed | Partial — outdoor socket guidance; no balcony use; mounting evidence needed | Promising candidate — pre-launch only |
+| UKSOL Pro Duo 890W Sheffield-made mount | Partial — reseller media kit, price list and datasheet | No | No — plug/fuse details still needed | Partial — outdoor socket guidance; no balcony use; mounting evidence needed | Promising candidate — pre-launch only |
+| UKSOL Pro Max Hybrid 1260W | Partial — reseller media kit, price list and datasheet | No | No — plug/fuse details still needed | Partial — outdoor socket guidance; no balcony use; mounting evidence needed | Promising candidate — pre-launch only |
 | UK Solar Kits TSUN ESK400 Universal | Partial — product page only | No | Partial — UK plug claimed; fuse/contact protection not stated | Partial — multiple mounting uses claimed; calculations needed | Candidate — do not list as approved |
 
 ## ENA public-register check
