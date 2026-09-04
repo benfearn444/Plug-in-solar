@@ -1,6 +1,8 @@
 # Bright Socket storefront prototype
 
-This folder contains the current customer-facing pre-launch site for a UK plug-in solar business.
+This folder contains the current customer-facing pre-launch site for a Great Britain plug-in solar business.
+
+The initial launch model is GB-only, supplier-direct fulfilment, no warehouse stock and no installation service. Company formation, insurance, supplier terms and product verification remain in progress.
 
 Open `index.html` in a browser to review the storefront. It is intentionally a catalogue and launch-list experience rather than a live checkout: no product is labelled approved until supplier evidence has been reviewed against the applicable UK framework.
 

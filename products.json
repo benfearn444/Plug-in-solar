@@ -1,0 +1,61 @@
+[
+  {
+    "sku": "UKS-PRO-C-1-515-MZ1",
+    "name": "UKSOL Pro Compact Hybrid 515W",
+    "supplier": "UKSOL",
+    "status": "candidate",
+    "panel_input_w": 515,
+    "inverter_max_va": 800,
+    "reseller_buy_price_gbp_ex_vat": 379.00,
+    "guide_price_gbp_inc_vat": 568.50,
+    "pricing_basis": "UKSOL reseller price list dated 1 September 2026; 25% markup, then VAT. Delivery and ballast excluded.",
+    "availability": "Stated by supplier as early November 2026",
+    "public_evidence": ["UKSOL reseller media kit", "UKSOL datasheet", "800W microinverter", "app monitoring", "10-year British panel warranty"],
+    "limitations": ["not suitable for balcony installation", "ballast not included"],
+    "missing_before_sale": ["complete-kit IPS evidence", "BS 1363 plug and BS 1362 fuse evidence", "delivery and returns terms", "written reseller approval"]
+  },
+  {
+    "sku": "UKS-D2-890-MZ1-UKG",
+    "name": "UKSOL Pro Duo 890W",
+    "supplier": "UKSOL",
+    "status": "candidate",
+    "panel_input_w": 890,
+    "inverter_max_va": 800,
+    "inverter_max_current_a": 3.5,
+    "reseller_buy_price_gbp_ex_vat": 730.00,
+    "guide_price_gbp_inc_vat": 1095.00,
+    "pricing_basis": "UKSOL reseller price list dated 1 September 2026; 25% markup, then VAT. Delivery and ballast excluded.",
+    "availability": "Supplier lead time stated as 14–20 days from order",
+    "public_evidence": ["UKSOL reseller media kit", "UKSOL datasheet", "BS EN 50549-1 listed", "BS EN 62109-1/-2 listed", "Wi-Fi and Bluetooth app", "10-year British panel warranty"],
+    "limitations": ["not suitable for balcony installation", "ballast not included"],
+    "missing_before_sale": ["complete-kit IPS evidence", "BS 1363 plug and BS 1362 fuse evidence", "delivery and returns terms", "written reseller approval"]
+  },
+  {
+    "sku": "UKS-PRO-M-2-1260-MZ1",
+    "name": "UKSOL Pro Max Hybrid 1260W",
+    "supplier": "UKSOL",
+    "status": "candidate",
+    "panel_input_w": 1260,
+    "inverter_max_va": 800,
+    "requires_over_960w_professional_assessment_advice": true,
+    "inverter_max_current_a": 3.5,
+    "reseller_buy_price_gbp_ex_vat": 589.00,
+    "guide_price_gbp_inc_vat": 883.50,
+    "pricing_basis": "UKSOL reseller price list dated 1 September 2026; 25% markup, then VAT. Delivery and ballast excluded.",
+    "availability": "Stated by supplier as early November 2026",
+    "public_evidence": ["UKSOL reseller media kit", "UKSOL datasheet", "BS EN 50549-1 listed", "BS EN 62109-1/-2 listed", "Wi-Fi and Bluetooth app", "10-year British panel warranty"],
+    "limitations": ["not suitable for balcony installation", "ballast not included"],
+    "missing_before_sale": ["complete-kit IPS evidence", "BS 1363 plug and BS 1362 fuse evidence", "delivery and returns terms", "written reseller approval"]
+  },
+  {
+    "sku": "tsun-esk400-universal",
+    "name": "TSUN ESK400 Universal",
+    "supplier": "UK Solar Kits",
+    "status": "candidate",
+    "panel_input_w": 400,
+    "inverter_max_va": 400,
+    "public_price_gbp_inc_vat": 499.95,
+    "public_evidence": ["product page", "UK plug cable claim", "TSUN Smart app claim"],
+    "missing_before_sale": ["complete-kit IPS evidence", "exact BS 1363 plug and fuse details", "contact protection evidence", "mounting calculations", "reseller terms"]
+  }
+]
